@@ -7,4 +7,13 @@ The repository include the evaluation code fot the SumTO summarization system pr
 - In `summarize.py`: `DATA_DIR` and `TEST_DIR` should be set according to your environment configuration
 - In `summarize.py`: `YourSystemID` should be set according to your output folder (it will contain the summarized documents at the end of the summarization process)
 
+## Pre-trained Financial model
+
+Available at https://huggingface.co/morenolq/SumTO_FNS2020 or direclty on pytorch using the tag `morenolq/SumTO_FNS2020`
+
+
 ## Citation (Coming Soon)
+
+La Quatra, M., Cagliero L., *End-to-end Training For Financial Report Summarization*
+
+The paper will be available soon.
