@@ -9,7 +9,7 @@ The repository include the evaluation code fot the SumTO summarization system pr
 
 ## Pre-trained Financial model
 
-Available at https://huggingface.co/morenolq/SumTO_FNS2020 or direclty on pytorch using the tag `morenolq/SumTO_FNS2020`
+Available at https://huggingface.co/morenolq/SumTO_FNS2020 or using the transformers python library with the tag `morenolq/SumTO_FNS2020`
 
 
 ## Citation (Coming Soon)
