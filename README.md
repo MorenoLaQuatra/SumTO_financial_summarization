@@ -14,6 +14,6 @@ Available at https://huggingface.co/morenolq/SumTO_FNS2020 or using the transfor
 
 ## Citation (Coming Soon)
 
-La Quatra, M., Cagliero L., *End-to-end Training For Financial Report Summarization*
+La Quatra, M., & Cagliero, L. (2020, December). *End-to-end Training For Financial Report Summarization*. In Proceedings of the 1st Joint Workshop on Financial Narrative Processing and MultiLing Financial Summarisation (pp. 118-123).
 
-The paper will be available soon.
+[https://www.aclweb.org/anthology/2020.fnp-1.20.pdf](https://www.aclweb.org/anthology/2020.fnp-1.20.pdf)
