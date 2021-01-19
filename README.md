@@ -6,6 +6,8 @@ The repository include the evaluation code fot the SumTO summarization system pr
 - `summarize.py` contains the code to initialize and apply the model to pre-parsed input data collections.
 - In `summarize.py`: `DATA_DIR` and `TEST_DIR` should be set according to your environment configuration
 - In `summarize.py`: `YourSystemID` should be set according to your output folder (it will contain the summarized documents at the end of the summarization process)
+- `components/Dataset.py` contains the Dataset class exploited by the summarization algorithm to predict the summaries.
+- `create_dataset.py` contains the instructions to create and store the Dataset object.
 
 ## Pre-trained Financial model
 
